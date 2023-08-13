@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://www.linkpicture.com/view.php?img=LPic64d8769ce53bb747766155"><img src="https://www.linkpicture.com/q/Black-Modern-Graphic-Designer-LinkedIn-Banner.png" type="image"></a>
 <h1 align="center">Hi 👋, I'm Debdutta Burman</h1>
 <h3 align="center">An UnderGrad student learning and exploring new skills</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"
