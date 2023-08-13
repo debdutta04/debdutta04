@@ -17,7 +17,7 @@
 
 
 
-<img align="right" alt="Coding" width="[500" src="[https://wallpapercave.com/wp/wp11364726.jpg](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F59734313%2F157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwjmyfjgj9mAAxVum2MGHXebARAQMygBegUIARDXAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fpayalthummar&docid=LbZq2RIy3S6JcM&w=640&h=640&q=developer%20coding%20girl%20gif&hl=en-GB&ved=2ahUKEwjmyfjgj9mAAxVum2MGHXebARAQMygBegUIARDXAQ)"/>
+<img align="right" alt="Coding" src="[https://wallpapercave.com/wp/wp11364726.jpg](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F59734313%2F157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwjmyfjgj9mAAxVum2MGHXebARAQMygBegUIARDXAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fpayalthummar&docid=LbZq2RIy3S6JcM&w=640&h=640&q=developer%20coding%20girl%20gif&hl=en-GB&ved=2ahUKEwjmyfjgj9mAAxVum2MGHXebARAQMygBegUIARDXAQ)"/>
 
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 
