@@ -6,13 +6,17 @@
 
 ### About myself: 🌱 <br>
 
-- I am *Debdutta Burman, currently pursuing my bachelors from NiT Kolkata, West Bengal, in *Information Technology. <br>
+- 🌱 I’m currently learning **React** & exploring **Open-Source**
 
-- I am interested in development and have contributed to some open-source organizations. I also enjoy doing competitive programming. <br>
+- 💬 Ask me about **Dsa, Web-Development** 
 
-- I have experience in FULL stack web development .<br>
+- 📫 Reach me through this <a href="mailto:debdutta0401@gmail.com"><strong> Mail</strong></a>
 
-- Currently, in my 3rd year, I practice DSA Problems on the platform of Leetcode, Coding Ninjas and gfg, and also participate in contests on CodeChef, Codeforces, Leetcode and GFG.
+- 👤 Global rank #259 in **GSSoC'23**
+
+- 🔥 55+ days streak on **Leetcode**
+
+- ❤️ 100+ Contributions & 7+ Days Streak on *Github*
 
 
 
