@@ -7,7 +7,7 @@
 
 ### About myself: 🌱 <br>
 
-- I am Debdutta Burman, currently pursuing my bachelors from NiT Kolkata, West Bengal, in *Information Technology. <br>
+- I am *Debdutta Burman, currently pursuing my bachelors from NiT Kolkata, West Bengal, in *Information Technology. <br>
 
 - I am interested in development and have contributed to some open-source organizations. I also enjoy doing competitive programming. <br>
 
@@ -17,7 +17,7 @@
 
 
 
-<img align="right" alt="Coding" src="[https://wallpapercave.com/wp/wp11364726.jpg](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F59734313%2F157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwjmyfjgj9mAAxVum2MGHXebARAQMygBegUIARDXAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fpayalthummar&docid=LbZq2RIy3S6JcM&w=640&h=640&q=developer%20coding%20girl%20gif&hl=en-GB&ved=2ahUKEwjmyfjgj9mAAxVum2MGHXebARAQMygBegUIARDXAQ)"/>
+<img align="right" alt="Coding" width="500" src="https://wallpapercave.com/wp/wp11364726.jpg"/>
 
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 
@@ -28,10 +28,10 @@
 
 <p align="left">
 <a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/souradeep_2003_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/debdutta-burman-859743223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)" height="40" width="40" /></a>
- <a href="https://www.linkedin.com/in/debdutta-burman-859743223/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)"  width="30" /></a>
-<a href="https://auth.geeksforgeeks.org" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)"  width="30" /></a>
+<a href="https://www.linkedin.com/in/debdutta-burman-859743223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="" height="40" width="40" /></a>
+ <a href="https://leetcode.com/debdutta_71/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt=""  width="30" /></a>
+<a href="https://geeksforgeeks.com" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt=""  width="30" /></a>
 
 
 
