@@ -1,4 +1,3 @@
-<a href="https://www.linkpicture.com/view.php?img=LPic64d8769ce53bb747766155"><img src="https://www.linkpicture.com/q/Black-Modern-Graphic-Designer-LinkedIn-Banner.png" type="image"></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=13F2F7&width=435&lines=Hey%2C+Debdutta+Here+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%8D%83;Show+some+%E2%9D%A4%EF%B8%8F+and+%E2%AD%90+my+Repo+;MERN+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
