@@ -12,11 +12,11 @@
 
 - 📫 Reach me through this <a href="mailto:debdutta0401@gmail.com"><strong> Mail</strong></a>
 
-- 👤 Global rank #259 in **GSSoC'23**
+<!--- 👤 Global rank #259 in **GSSoC'23**
 
 - 🔥 55+ days streak on **Leetcode**
 
-- ❤️ 100+ Contributions & 7+ Days Streak on *Github*
+- ❤️ 100+ Contributions & 7+ Days Streak on *Github*-->
 
 
 
