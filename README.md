@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=13F2F7&width=435&lines=Hey%2C+Debdutta+Here+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%8D%83;Show+some+%E2%9D%A4%EF%B8%8F+and+%E2%AD%90+my+Repo+;MERN+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=13F2F7&width=435&lines=Hey%2C+Debdutta+Here+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%8D%83;Show+some+%E2%9D%A4%EF%B8%8F+and+%E2%AD%90+my+Repo+;MERN+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)-->
 
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 
@@ -20,11 +20,11 @@
 
 
 
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
+<!--<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>-->
 
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 
-
+<!--
 ### Connect with me:
 
 
@@ -79,7 +79,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!--
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debdutta04&bg_color=000000&color=ffffff&line=ff00ae&point=e6a8d2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
